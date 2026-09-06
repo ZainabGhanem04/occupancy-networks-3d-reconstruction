@@ -3,10 +3,10 @@ Graduation Project — Zainab Ghanem & Nagham Noufal
 <table>
   <tr>
     <td>
-      <img src="project/demo/car.jpg" alt="Static Image" width="300" />
+      <img src="assets/car.jpg" alt="Static Image" width="300" />
     </td>
     <td>
-      <img src="project/demo/car.gif" alt="Animated GIF" width="400" hight="600" />
+      <img src="assets/car.gif" alt="Animated GIF" width="400" hight="600" />
     </td>
   </tr>
 </table>
@@ -33,7 +33,6 @@ A trained model is available through an interactive web interface, allowing user
 
 The repository also includes a `samples/` folder containing example images from the test set that can be used directly with the interface. These samples correspond to objects evaluated using our trained model and provide an easy way to explore the reconstruction results.
 
----
 
 ## Experimental Setup
 
@@ -55,7 +54,6 @@ The original implementation was used as the foundation of the experiment, rather
 
 The main configuration changes were necessary to make the experiment feasible under our computational constraints. In particular, the batch size and number of layers were reduced to accommodate CPU-based training and limited memory resources.
 
----
 
 ## Results
 
@@ -71,7 +69,7 @@ The main evaluation metrics include:
 
 The following table summarizes the main evaluation results obtained from our experiment.
 
-![result_table](project/result_table.png)
+![result_table](assets/result_table.png)
 
 For a more detailed analysis of the evaluation results, including metric distributions, and summary statistics, see the [`results_analysis.ipynb`](project/result/result_analysis.ipynb) notebook included in this repository.
 
@@ -79,7 +77,6 @@ For a more detailed analysis of the evaluation results, including metric distrib
 
 The repository also contains representative reconstructed meshes from the test set. These examples demonstrate that the trained model is capable of recovering plausible 3D geometry from a single input image, while also illustrating the variation in reconstruction quality across different objects. You may use an online external reader like **[IMAGEtoSTL](https://imagetostl.com/view-off-online)** to display the final reconstructed meshes.
 
----
 
 ## Limitations
 
