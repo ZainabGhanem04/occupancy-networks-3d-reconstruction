@@ -75,7 +75,7 @@ For a more detailed analysis of the evaluation results, including metric distrib
 
 ### Qualitative Results
 
-The repository also contains representative reconstructed meshes from the test set. These examples demonstrate that the trained model is capable of recovering plausible 3D geometry from a single input image, while also illustrating the variation in reconstruction quality across different objects. You may use an online external reader like **[IMAGEtoSTL](https://imagetostl.com/view-off-online)** to display the final reconstructed meshes.
+The repository also contains representative reconstructed meshes from the test set, see the `demo/` folder. These examples demonstrate that the trained model is capable of recovering plausible 3D geometry from a single input image, while also illustrating the variation in reconstruction quality across different objects. You may use an online external reader like **[IMAGEtoSTL](https://imagetostl.com/view-off-online)** to display the final reconstructed meshes.
 
 
 ## Limitations
