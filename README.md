@@ -48,7 +48,7 @@ The original implementation was used as the foundation of the experiment, rather
 | Dataset             |       ShapeNet | ShapeNet subset |
 | Batch Size          |             64 |           **4** |
 | Number of Layers    |              4 |           **1** |
-| Training Iterations |              — |     **500,000** |
+| Training Iterations |     **300,00** |     **500,000** |
 | Hardware            |            GPU |         **CPU** |
 | Framework           |        PyTorch |         PyTorch |
 
