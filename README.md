@@ -1,4 +1,4 @@
-# Single-Image 3D Reconstruction using Occupancy Networks
+# 3D Object Reconstruction from Single Image using Occupancy Networks
 Graduation Project — Zainab Ghanem & Nagham Noufal
 <table>
   <tr>
