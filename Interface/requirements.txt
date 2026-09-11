@@ -1,0 +1,10 @@
+torch
+torchvision
+numpy
+pyyaml
+scikit-image
+trimesh
+scipy
+gradio
+rembg
+pillow
