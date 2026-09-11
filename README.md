@@ -3,13 +3,13 @@ Graduation Project — Zainab Ghanem & Nagham Noufal
 <table>
   <tr>
     <td>
-      <img src="assets/b0lod3.gif" alt="Car Image" width="285" />
+      <img src="assets/car.gif" alt="Car Image" width="285" />
     </td>
     <td>
-      <img src="assets/b0lobe.gif" alt="Table GIF" width="285" />
+      <img src="assets/table.gif" alt="Table GIF" width="285" />
     </td>
     <td>
-      <img src="assets/b0lnm5.gif" alt="Airpalne GIF" width="285"/>
+      <img src="assets/airplane.gif" alt="Airpalne GIF" width="285"/>
     </td>
   </tr>
 </table>
